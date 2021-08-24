@@ -10,8 +10,7 @@
 + 88888888  #8
 
 # GAME ROUNDS
-
-
++ ROUND 1 HEIGHT: 13138761, https://etherscan.io/block/countdown/13138761
 
 + round1: 1357 OR 2468 
 + 1357 - odd
