@@ -11,7 +11,7 @@
 
 # GAME ROUNDS
 + ROUND 1 HEIGHT: 13138761, https://etherscan.io/block/countdown/13138761
-
++ ROUND 1 HEIGHT: 13139800, https://etherscan.io/block/countdown/13139800
 + round1: 1357 OR 2468 
 + 1357 - odd
 + 2468 - even
