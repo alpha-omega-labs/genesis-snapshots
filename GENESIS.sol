@@ -621,7 +621,7 @@ contract ERC20 is Context, IERC20 {
 
 contract GENESISToken is ERC20 {
 
-    constructor () ERC20("GENESIS", "GENESIS") {
+    constructor () ERC20("GENESIS", "L1") {
         _mint(msg.sender, 21000000 * (10 ** uint256(decimals())));
     }
 }
