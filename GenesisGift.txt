@@ -1864,3 +1864,11 @@
 2632312,"Creators gifts"
 1000000,"Sci quest gifts"
 21000000,"Grand total"
+
+Sci quest:
+g31250*32 = 1000000
+
+Creators:
+g6000*69 =  414000
+g28000*42 = 1176000
+g49600*21 = 1041600
